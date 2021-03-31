@@ -5,3 +5,9 @@
 	height: 80px;
 	background-color: #f0f0f0;
 }
+
+.site-head {
+	padding: 1.5em 0.5em;
+	background-color: #e0e0e0;
+	margin-bottom: 1.5em;
+}
